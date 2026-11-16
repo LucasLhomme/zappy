@@ -1,5 +1,10 @@
 # Zappy — Network multiplayer game with autonomous AI
 
+[![School: Epitech](https://img.shields.io/badge/School-Epitech-005696.svg)](https://www.epitech.eu/)
+[![Academic Year: 2025-2026](https://img.shields.io/badge/Academic%20Year-2025--2026%20(Tek2)-blueviolet.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+
 A network multiplayer game where teams of **autonomous AI** explore a planet (Trantor),
 gather resources and level up through incantation. The first team to bring 6 players to
 level 8 wins. Built as a team project at Epitech (YEP-400 module).
